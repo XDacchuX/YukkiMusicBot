@@ -1,4 +1,4 @@
-name : English
+name : Kannada
 
 # General Strings
 general_1 : "Reply to a user's message or give username/user_id."
@@ -143,7 +143,7 @@ cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with t
 
 #Play
 play_1 : "🔄 Processing Query... Please Wait!"
-play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
+play_2 : "**🏷ಚಾನೆಲ್ Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
 play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
@@ -171,7 +171,7 @@ playlist_5 :  "    Duration- {0} Mins"
 playlist_6 : "Contact me in PM for deletion of Playlists."
 playlist_7 : "Tracks Inside Playlist: {0}\n\nPress the Buttons to delete a particular track in your playlist.\n\nTo delete whole playlist: Press Del Whole Playlist button."
 playlist_8 : "Already Exists\n\nThis track exists in your playlist."
-playlist_9 : "Sorry! You can only have {0} music in a playlist."
+playlist_9 : "ಕ್ಷಮಿಸಿ! ನಿಮಗೆ ಇರುವುದು{0} ಮ್ಯೂಸಿಕ್ ಪ್ಲೇಯಲಿಸ್ಟ್ ಮಾತ್ರ."
 playlist_10 : "Playlist Addition\n\n{0}\nadded to your playlist."
 playlist_11 : "Successfully deleted your track."
 playlist_12 : "Failed to delete your track."
@@ -237,31 +237,31 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
+CLOSE_BUTTON  : "🗑 ಕ್ಲೋಸ್ "
+CLOSEMENU_BUTTON  : "🗑 ಕ್ಲೋಸ್ Menu"
 BACK_BUTTON : "⬅ Back"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+UNBAN_BUTTON : "🗑 Unban ಅಸಿಸ್ಟೆಂಟ್ "
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
+S_B_1 : "🗒 ಕಮಾಂಡ್ಸ್ "
+S_B_2 : "🔧 ಸೆಟ್ಟಿಂಗ್ಸ್ "
+S_B_3 : "📨 ಸಪೋರ್ಟ್ "
+S_B_4 : "📨 ಚಾನೆಲ್ "
+S_B_5 : "✚ ನನ್ನನು ಗ್ರೂಪ್ ಗೆ add ಮಾಡಿ "
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_7 : "👤 Bot ಓನರ್ "
+S_B_8 : "🔎 ನನ್ನನು ಹೇಗೆ ಬಳಸುವುದು? ಕಮಾಂಡ್ಸ್ Menu."
 
 #Help 
-H_B_1 : "Admin Commands"
-H_B_2 : "Play Commands"
-H_B_3 : "Bot Commands"
-H_B_4 : "Extra Commands"
+H_B_1 : "ಅಡ್ಮಿನ್ ಕಮಾಂಡ್ಸ್ "
+H_B_2 : "Play ಕಮಾಂಡ್ಸ್ "
+H_B_3 : "Bot ಕಮಾಂಡ್ಸ್ "
+H_B_4 : "Extra ಕಮಾಂಡ್ಸ್ "
 H_B_5 : "Close Menu"
-H_B_6 : "SudoUser Commands"
+H_B_6 : "SudoUser ಕಮಾಂಡ್ಸ್ "
 
 #PlayMode
 PM_B_1 : "DirectPlay"
@@ -269,10 +269,10 @@ PM_B_2 : "InlineMarkup"
 PM_B_3 : "ChannelPlay"
 
 #Play
-P_B_1 : "🎵 Play Audio"
-P_B_2 : "🎥 Play Video"
-P_B_3 : "🏮 Start Live Stream"
-P_B_4 : "🎵 Play Playlist"
+P_B_1 : "🎵 Play ಆಡಿಯೋ "
+P_B_2 : "🎥 Play ವಿಡಿಯೋ "
+P_B_3 : "🏮 Start ಲೈವ್ Stream"
+P_B_4 : "🎵 Play ಪ್ಲೇಯಲಿಸ್ಟ್ "
 
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
@@ -293,7 +293,7 @@ ST_B_2 : "🎥 Vid Quality"
 ST_B_3 : "🎩 Auth Users"
 ST_B_4 : "📱 Dashboard"
 ST_B_5 : "▶️ Play Mode"
-ST_B_6 : "🏳️‍🌈 Language"
+ST_B_6 : "🏳️‍🌈 ಭಾಷೆ "
 ST_B_7 : "🔄 Clean Mode"
 ST_B_8 : "{0} Low Quality Audio"
 ST_B_9 : "{0} Medium Quality Audio"
@@ -303,33 +303,33 @@ ST_B_12 : "{0} Medium Quality Video"
 ST_B_13 : "{0} High Quality Video"
 ST_B_14 : "✅ Enabled"
 ST_B_15 : "❌ Disabled"
-ST_B_16 : "👤 Admins"
-ST_B_17 : "👥 Everyone"
+ST_B_16 : "👤 ಅಡ್ಮಿನ್ಸ್ "
+ST_B_17 : "👥 ಎಲ್ಲರೂ "
 ST_B_18 : "📋 Authorized Users Lists"
 ST_B_19 : "🔎 Search Mode"
 ST_B_20 : "✅ Direct"
 ST_B_21 : "✅ Inline"
-ST_B_22 : "👨‍⚖️ Admin Commands"
-ST_B_23 : "🏘 Group"
-ST_B_24 : "🏷 Channel"
+ST_B_22 : "👨‍⚖️ ಅಡ್ಮಿನ್ ಕಮಾಂಡ್ಸ್ "
+ST_B_23 : "🏘 ಗ್ರೂಪ್ "
+ST_B_24 : "🏷 ಚಾನೆಲ್ "
 ST_B_25 : "🫂 Play Type"
-ST_B_26 : "🗑 Command Clean"
+ST_B_26 : "🗑 ಕಮಾಂಡ್ ಸ್ವಚ್ಛಮಾಡಿ "
 ST_B_27 : "🧑‍🚀 Suggestion Mode"
 
 #Song
-SG_B_1 : "↗️ Open Private Chat"
-SG_B_2 : "🔊 Audio"
-SG_B_3 : "🎥 Video"
+SG_B_1 : "↗️ ಪ್ರೈವೇಟ್ ಚಾಟ್ ಓಪನ್ ಮಾಡಿ "
+SG_B_2 : "🔊 ಆಡಿಯೋ "
+SG_B_3 : "🎥 ವಿಡಿಯೋ "
 
 #Stats
-SA_B_1 : "📢 Top 10 Chat"
-SA_B_2 : "🔢 Top 10 Tracks"
-SA_B_3 : "🧛 Top 10 Users"
-SA_B_4 : "🏷 Top 10 Here"
-SA_B_5 : "💡 Overall Stats"
-SA_B_6 : "👤 User Stats"
+SA_B_1 : "📢 ಟಾಪ್ 10 ಚಾಟ್ "
+SA_B_2 : "🔢 ಟಾಪ್ 10 ಟ್ರಾಕ್ಸ್ "
+SA_B_3 : "🧛 ಟಾಪ್ 10 ಬಳಕೆದಾರರು "
+SA_B_4 : "🏷 ಟಾಪ್ 10 ಇಲ್ಲಿ "
+SA_B_5 : "💡 ಸಂಪೂರ್ಣ ಸ್ಟೇಟಸ್ "
+SA_B_6 : "👤 ಬಳಕೆದಾರರ ಸ್ಟೇಟಸ್ "
 SA_B_7 : "🔢 Global Top 10 Stats"
-SA_B_8 : "🤖 Bot Stats"
+SA_B_8 : "🤖 Bot ಸ್ಟೇಟಸ್ "
 
 #Queue
 QU_B_1 : "📑 Queued List"
@@ -422,7 +422,7 @@ pbot_6 : "No such chat exists in the authorized list"
 pbot_7 : "Failed to verify chat_id.\n\nMake sure its numeric and in correct format. Don't use chat username or links."
 pbot_8 : "Please wait.... Fetching Authorized chats."
 pbot_9 : "**<b>Fetched Chats:</b>**\n\n"
-pbot_10 : "Private Chat"
+pbot_10 : "ಪ್ರೈವೇಟ್ ಚಾಟ್ "
 pbot_11 : "No Authorized chats found"
 pbot_12 : "Private Bot Mode is disabled.\n\nTo use your bot as private bot make sure to set **PRIVATE_BOT_MODE** = **True**"
 pbot_13 : "\n**<b>Unfetched Chats:</b>**\n\n"
@@ -442,7 +442,7 @@ gban_10 : "No Gbanned Users Found."
 gban_11 : "Please wait a while.. Fetching Gbanned users list"
 
 #Suggestions
-sug_0 : "❓**Do You Know?**\n\n✅ "
+sug_0 : "❓**ಇದು ನಿಮಗೆ ಗೊತ್ತ?**\n\n✅ "
 sug_1 : "You can play music in two **search modes** i.e. Direct Mode and Inline Mode.\n\nChange modes via /playmode"
 sug_2 : "You can play music in two **play types** i.e. Everyone Mode and Admins Mode.\n\nChange modes via /playmode"
 sug_3 : "You can play music in **channels** too.\n\nSet channel_id via /channelplay and play via /cplay "
